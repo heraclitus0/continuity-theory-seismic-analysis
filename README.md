@@ -1,12 +1,12 @@
 # Continuity Theory: Seismic Analysis
 
-This repository contains the full Python code used in Section 10 of the SSRN paper:  
+This repository contains the full Python code used in Section 10 of the paper:  
 **"Continuity Theory: Memory, Distortion, and the Recursive Construction of Reality"**
 
 ## Files Included
 
-- `SSRN_ContinuityTheory_SeismicAnalysis_2010_2015.py`
-- `SSRN_ContinuityTheory_SeismicAnalysis_2015_2020.py`
+- `ContinuityTheory_SeismicAnalysis_2010_2015.py`
+- `ContinuityTheory_SeismicAnalysis_2015_2020.py`
 
 ## Purpose
 
