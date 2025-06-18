@@ -16,7 +16,7 @@ The logic reflects the symbolic structure of the theory, including memory projec
 
 ## Citation
 
-**SSRN Paper**: _(Link will be updated after submission approval)_
+**Zenodo Paper**: Pulikanti, S. B. (2025). Continuity Theory: Memory, Distortion, and the Recursive Construction of Reality. Zenodo. https://doi.org/10.5281/zenodo.15684343
 
 ## Author
 
