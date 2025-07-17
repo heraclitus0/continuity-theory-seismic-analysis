@@ -1,0 +1,35 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2015-02-14T02:28:56.228Z,37.1418,-117.2618,17,4.8,ml,19,54.03,0.168,0.1919,nn,nn00482627,2020-05-02T03:32:22.257Z,"51 km WNW of Beatty, Nevada",earthquake,,1.3,0.28,6,reviewed,nn,nn
+2015-01-28T21:08:53.710Z,40.3178333,-124.6066667,16.881,5.72,mw,52,230,0.2459,0.13,nc,nc72387946,2023-01-22T07:44:02.853Z,"40 km SW of Ferndale, California",earthquake,0.54,0.33,,13,reviewed,nc,nc
+2015-01-22T09:09:16.708Z,41.8833,-119.6332,11.7,4.5,ml,10,100.42,0.139,0.1541,nn,nn00478560,2021-05-24T22:48:24.288Z,"43 km E of Fort Bidwell, California",earthquake,,2.3,0.33,9,reviewed,nn,nn
+2014-11-13T06:36:07.489Z,41.9009,-119.6224,0,4.6,ml,7,80.61,0.507,0.0742,nn,nn00467620,2022-08-07T04:02:29.094Z,"44 km E of Fort Bidwell, California",earthquake,,3.4,0.31,7,reviewed,nn,nn
+2014-11-07T08:05:54.864Z,41.8805,-119.6299,0,4.7,ml,6,76.98,0.502,0.1903,nn,nn00466648,2022-08-07T03:39:59.839Z,"43 km E of Fort Bidwell, California",earthquake,,0,0.59,4,reviewed,nn,nn
+2014-11-06T08:34:46.519Z,41.9061,-119.6573,5.2,4.7,ml,7,78.33,0.481,0.1662,nn,nn00466441,2022-06-21T03:49:26.360Z,"41 km E of Fort Bidwell, California",earthquake,,6.7,0.19,6,reviewed,nn,nn
+2014-11-05T07:23:04.418Z,41.9078,-119.6202,0.1,4.6,ml,6,78.37,0.508,0.1359,nn,nn00466248,2022-08-07T03:29:54.972Z,"44 km E of Fort Bidwell, California",earthquake,,6.9,0.16,3,reviewed,nn,nn
+2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03604,0.18,nc,nc72282711,2024-10-18T00:15:54.204Z,"The 2014 South Napa, California Earthquake",earthquake,0.11,0.15,,0,reviewed,nc,nc
+2014-07-05T16:59:34.090Z,34.2823333,-117.0266667,7.25,4.58,mw,188,32,,0.23,ci,ci15520985,2025-03-31T09:16:13.778Z,"11km NE of Running Springs, CA",earthquake,0.12,0.28,,6,reviewed,ci,ci
+2014-03-29T04:09:42.170Z,33.9325,-117.9158333,5.09,5.1,mw,321,9,0.01443,0.24,ci,ci15481673,2025-05-20T01:14:43.320Z,"2km NW of Brea, CA",earthquake,0.1,0.21,,6,reviewed,ci,ci
+2014-01-12T20:24:46.740Z,38.8135,-122.8161667,1.9,4.53,mw,103,25,0.01081,0.05,nc,nc72141176,2022-08-06T21:05:51.540Z,"8 km W of Cobb, California",earthquake,0.08,0.14,,10,reviewed,nc,nc
+2013-10-11T23:05:37.330Z,40.9835,-124.7498333,8.635,4.94,mw,124,214,0.4775,0.17,nc,nc72086051,2022-08-06T18:16:08.537Z,"50 km WNW of Samoa, California",earthquake,0.43,0.95,,6,reviewed,nc,nc
+2013-05-29T14:38:03.410Z,34.4061667,-119.9198333,7.12,4.8,mw,37,63,,0.44,ci,ci15350729,2022-08-06T15:58:27.420Z,"6km W of Isla Vista, CA",earthquake,0.46,1.56,,6,reviewed,ci,ci
+2013-05-24T08:02:19.510Z,40.1795,-121.0781667,3.65,4.86,ml,30,136,0.08539,0.09,nc,nc71997821,2023-05-20T14:18:43.860Z,"1km NNW of Canyondam, CA",earthquake,0.32,1.13,0.162,84,reviewed,nc,nc
+2013-05-24T03:47:08.180Z,40.1918333,-121.0595,7.968,5.69,mw,32,69,0.08649,0.08,nc,nc71996906,2022-08-06T15:40:22.649Z,"2 km NNE of Canyondam, California",earthquake,0.26,0.68,,5,reviewed,nc,nc
+2013-03-11T16:56:06.060Z,33.5008333,-116.4581667,10.943,4.7,mh,110,16,0.03525,0.22,ci,ci15296281,2022-08-06T14:16:28.267Z,"21km ESE of Anza, CA",earthquake,0.14,0.32,,0,reviewed,ci,ci
+2013-02-13T00:10:14.393Z,38.0222,-118.0553,7.5,5.1,ml,29,81.88,0.206,0.1391,nn,nn00402688,2022-08-06T13:35:55.840Z,"39 km N of Dyer, Nevada",earthquake,,2.6,0.33,4,reviewed,nn,nn
+2012-10-21T06:55:09.510Z,36.3096667,-120.856,8.619,5.29,mw,100,68,0.06126,0.13,nc,nc71863625,2022-08-06T12:13:01.276Z,"24 km NE of San Lucas, California",earthquake,0.17,0.42,,5,reviewed,nc,nc
+2012-09-25T15:15:09.890Z,39.1678333,-123.1658333,10.841,4.51,mw,92,30,0.1117,0.16,nc,nc71847715,2022-08-06T11:54:36.769Z,"3 km N of Talmage, California",earthquake,0.15,0.33,,6,reviewed,nc,nc
+2012-08-27T04:41:37.000Z,33.0211667,-115.5195,4.17,4.93,mw,40,82,0.04196,0.21,ci,ci15202921,2022-08-06T11:29:09.816Z,"5km NNE of Brawley, CA",earthquake,0.42,0.64,,6,reviewed,ci,ci
+2012-08-26T23:33:25.130Z,33.028,-115.5305,7.47,4.63,mw,62,82,0.04411,0.22,ci,ci15201537,2022-08-06T11:27:52.798Z,"6km N of Brawley, CA",earthquake,0.26,0.63,,6,reviewed,ci,ci
+2012-08-26T20:57:58.220Z,33.0185,-115.5403333,8.283,5.41,mw,47,47,0.0329,0.16,ci,ci15200401,2022-08-06T11:24:11.594Z,"4km NNW of Brawley, CA",earthquake,0.3,0.66,,6,reviewed,ci,ci
+2012-08-26T19:33:01.090Z,33.0135,-115.5591667,4.387,4.89,mw,50,75,0.02933,0.17,ci,ci15199689,2022-08-06T11:21:19.970Z,"5km NW of Brawley, CA",earthquake,0.29,0.47,,6,reviewed,ci,ci
+2012-08-26T19:31:23.040Z,33.0171667,-115.5536667,8.323,5.32,mw,56,73,0.03163,0.21,ci,ci15199681,2024-07-18T06:11:35.923Z,"5km NNW of Brawley, CA",earthquake,0.32,0.72,,6,reviewed,ci,ci
+2012-08-26T19:20:04.810Z,33.0158333,-115.5363333,4.79,4.59,mw,23,87,0.03107,0.12,ci,ci15199593,2022-08-06T11:19:14.399Z,"4km N of Brawley, CA",earthquake,0.39,0.48,,6,reviewed,ci,ci
+2012-02-13T21:07:02.770Z,41.1431667,-123.7903333,27.358,5.6,mw,41,72,0.1766,0.27,nc,nc71734741,2022-08-06T09:06:40.577Z,"26 km NNW of Willow Creek, California",earthquake,0.43,1.19,,4,reviewed,nc,nc
+2011-10-27T06:37:09.340Z,39.6055,-120.4715,11.974,4.73,mw,30,56,0.01892,0.07,nc,nc71671056,2022-08-06T08:10:47.285Z,"3 km WSW of Sattley, California",earthquake,0.24,0.49,,9,reviewed,nc,nc
+2011-10-01T07:07:00.547Z,38.8967,-118.7657,3.9,4.8,ml,26,103.47,0.329,0.1538,nn,nn00349954,2022-08-06T07:57:21.860Z,"7 km SSE of Schurz, Nevada",earthquake,,3.1,0.37,11,reviewed,nn,nn
+2011-08-27T07:18:21.150Z,36.5843333,-121.1808333,7.5,4.64,mw,97,31,0.08108,0.08,nc,nc71627835,2022-08-06T07:38:12.113Z,"21 km NE of Soledad, California",earthquake,0.11,0.3,,5,reviewed,nc,nc
+2011-04-17T00:45:37.080Z,38.3891,-118.7433,5.1,4.6,ml,33,56.28,0.295,0.1647,nn,nn00424006,2018-06-28T20:54:38.942Z,"18 km SW of Hawthorne, Nevada",earthquake,,3.4,0.29,8,reviewed,nn,nn
+2011-01-12T08:51:03.680Z,36.7711667,-121.4963333,7.661,4.5,mw,134,35,0.01802,0.19,nc,nc71508850,2022-08-06T05:30:14.096Z,"9 km SSE of San Juan Bautista, California",earthquake,0.15,0.28,,16,reviewed,nc,nc
+2010-11-04T19:39:59.550Z,32.8645,-115.9973333,13.146,4.57,ml,64,39,0.03251,0.25,ci,ci10832573,2022-08-06T04:49:34.854Z,"14km N of Ocotillo, CA",earthquake,0.26,0.58,0.146,196,reviewed,ci,ci
+2010-07-07T23:53:33.480Z,33.4173333,-116.4746667,12.318,5.42,mw,112,19,0.09786,0.23,ci,ci10736069,2022-08-06T03:46:43.497Z,"20km NNW of Borrego Springs, CA",earthquake,0.16,0.35,,7,reviewed,ci,ci
+2010-06-15T04:26:58.240Z,32.705,-115.9113333,8.756,5.71,mw,45,71,0.05832,0.2,ci,ci14745580,2025-05-04T01:50:29.845Z,"8km ESE of Ocotillo, CA",earthquake,0.41,0.83,,6,reviewed,ci,ci
